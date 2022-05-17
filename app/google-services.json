@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "728807852869",
+    "project_id": "cemara-349815",
+    "storage_bucket": "cemara-349815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728807852869:android:83fd73a97fca696e884c2c",
+        "android_client_info": {
+          "package_name": "com.dicoding.mycemara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728807852869-nutbhk7iegvjsre17okgildvja3mnl8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dicoding.mycemara",
+            "certificate_hash": "cffbb243043996a4773e345dc7307b4c00332705"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo_SBqupBk_9GKC91zLhnBMfrZgvheZr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728807852869-qcjv3s5qptuav3d02otuu88dtjsf83t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
